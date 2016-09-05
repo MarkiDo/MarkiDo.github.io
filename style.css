@@ -1,0 +1,23 @@
+@charset "windows-1251";
+/* CSS Document */
+
+.main_border{border: 0px solid #000;}
+p {
+	font-family:  Verdana, Geneva, sans-serif;
+	fonsize : 14px;
+	margin:15px;
+}
+.upper{background:#EFEFEF;}
+body {background-color:#E9E9E9;}
+.fontl{font-size="+3";}.upper table tr th p strong em {
+	font-size: 14px;
+}
+.upper table tr th p strong em {
+	font-family: Verdana, Geneva, sans-serif;
+}
+.upper table tr th p strong em {
+	color: #D2D2D2;
+}
+.upper table tr th p strong em {
+	color: #0F0000;
+}
